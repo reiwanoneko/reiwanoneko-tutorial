@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+table {
+    background-color: #ffffff;
+    border: solid 1px #cccccc;
+    margin-bottom: 15px;
+}
+
+table th {
+    background-color: #9289F0;
+    color: #ffffff;
+    padding: 5px 10px;
+    font-weight: normal;
+}
+
+table.clor-table-01 th {
+    background-color: #9289F0;
+}
+
+table.clor-table-02 th {
+    background-color: #B389F0;
+}
+
+table.clor-table-03 th {
+    background-color: #D589F0;
+}
+
+table td {
+    border: solid 1px #cccccc;
+    padding: 5px 10px;
+}
